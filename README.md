@@ -1,0 +1,2 @@
+# Temperatura
+temoeratura_codigo
